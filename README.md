@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm D T Chirag</h1>
+<h1 align="center">Hi I'm D T Chirag !</h1>
 <h3 align="center">A passionate business analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtchirag&label=Profile%20views&color=0e75b6&style=flat" alt="dtchirag" /> </p>
